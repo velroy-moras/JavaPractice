@@ -1,4 +1,4 @@
-package org.example;
+package LambdaInterfaces;
 
 public class Book {
 

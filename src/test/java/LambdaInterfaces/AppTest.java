@@ -1,4 +1,4 @@
-package org.example;
+package LambdaInterfaces;
 
 import static org.junit.Assert.assertTrue;
 

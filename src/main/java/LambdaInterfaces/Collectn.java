@@ -1,4 +1,4 @@
-package org.example;
+package LambdaInterfaces;
 
 import java.util.Arrays;
 

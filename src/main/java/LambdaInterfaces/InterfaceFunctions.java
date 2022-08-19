@@ -1,7 +1,6 @@
-package org.example;
+package LambdaInterfaces;
 
 import java.math.BigInteger;
-import java.util.Locale;
 import java.util.function.*;
 
 public class InterfaceFunctions {
